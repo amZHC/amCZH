@@ -33,8 +33,8 @@ layout: default
 
 
 ## 专业博客发表
-[JDBC连接数据库](https://www.cnblogs.com/333czh/p/15578227.html)
-[archLinux虚拟机安装](https://www.cnblogs.com/333czh/p/17267992.html)
+[JDBC连接数据库](https://www.cnblogs.com/333czh/p/15578227.html)<br>
+[archLinux虚拟机安装](https://www.cnblogs.com/333czh/p/17267992.html)<br>
 [搭建简单JavaWeb项目](https://www.cnblogs.com/333czh/p/16423830.html)
 ## 联系方式
 
