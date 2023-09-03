@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [陈振辉的个人简介]
-description: [陈振辉的个人简介]
+description: [这个网站用于介绍我自己，向您提供一些信息]
