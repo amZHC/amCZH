@@ -28,7 +28,7 @@ layout: default
 
 ## 专业技能展示
 - 近期学习内容：物联网相关，Java语言通过Modbus TCP协议远程连接PLC读取设备状态，模拟测试如下图
-- ![image](static/image.png)
+- [image](static/image.png)
 
 
 
