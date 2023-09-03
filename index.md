@@ -28,12 +28,12 @@ layout: default
 
 ## 专业技能展示
 - 近期学习内容：物联网相关，Java语言通过Modbus TCP协议远程连接PLC读取设备状态，模拟测试如下图
-- [image](static/image.png)
+- ![image](static/image.png)
 
 
 
 ## 专业博客发表
-![JDBC连接数据库](https://www.cnblogs.com/333czh/p/15578227.html)
+[JDBC连接数据库](https://www.cnblogs.com/333czh/p/15578227.html)
 
 
 ## 联系方式
